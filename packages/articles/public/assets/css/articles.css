@@ -1,0 +1,13 @@
+h1 {
+	text-align: center
+}
+ul.articles li:not(:last-child) {
+	border-bottom: 1px solid #ccc
+}
+
+.articles h2 a,.articles h2 a:hover, .articles h2 a:visited{
+    
+    color:black;
+    font-size:1em;
+    
+}
